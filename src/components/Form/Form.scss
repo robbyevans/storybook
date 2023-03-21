@@ -1,0 +1,21 @@
+.formControl{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+    input{
+    padding: 10px;
+    border: 1px solid darkblue;
+    margin: 10px;
+    border-radius: 5px;
+    color: darkblue;
+    
+  }
+  span{
+    margin-top: 20px;
+   color: #fff;
+   a{
+    text-decoration: underline;
+   }
+ }
+}
